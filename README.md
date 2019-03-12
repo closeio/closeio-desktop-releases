@@ -1,6 +1,6 @@
 # Close Desktop Releases
 
-This repository contains releases for the Close.io macOS and Windows Desktop
+This repository contains releases for the Close macOS and Windows Desktop
 application.
 
 ## Cutting a release
