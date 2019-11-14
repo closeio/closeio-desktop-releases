@@ -5,4 +5,4 @@ application.
 
 ## Cutting a release
 
-For more info about how to cut a new release, see [the development repo](https://github.com/closeio/closeio-electron#cutting-a-release).
+For more info about how to cut a new release, see [the development repo](https://github.com/closeio/close-desktop#cutting-a-release).
